@@ -1,1 +1,0 @@
-# OpenMP-HPC-Assignment
